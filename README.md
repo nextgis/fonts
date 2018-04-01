@@ -7,5 +7,7 @@
 * PTSerif, https://www.paratype.ru/public/
 
 # Usage
+```
 sudo add-apt-repository ppa:nextgis/misc
 sudo apt-get update
+```
