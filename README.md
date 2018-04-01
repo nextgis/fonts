@@ -1,4 +1,7 @@
-# Fonts added to nextgis.com
+# Additional fonts
+The main purpose of this repo is to build a package that can add these fonts to nextgis.com.
+
+If you need these fonts, you can also use them on your system. See usage section below.
 
 # Contents and sources
 
