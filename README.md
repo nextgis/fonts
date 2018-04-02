@@ -16,4 +16,5 @@ If you need these fonts, you can also use them on your system. See usage section
 ```
 sudo add-apt-repository ppa:nextgis/misc
 sudo apt-get update
+sudo apt-get install fonts-paratype
 ```
