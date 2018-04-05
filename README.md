@@ -18,3 +18,7 @@ sudo add-apt-repository ppa:nextgis/misc
 sudo apt-get update
 sudo apt-get install fonts-paratype
 ```
+
+# Web map usage
+
+This fonts will be automatically picked up by your Web map if you use them in QGIS and upload with NextGIS Connect. See comparison example: http://demo.nextgis.com/resource/464/display
